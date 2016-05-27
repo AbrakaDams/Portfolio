@@ -41,7 +41,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" id="test" href="#page-top">Welcome</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Welcome</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
