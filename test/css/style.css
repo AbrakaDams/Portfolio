@@ -1,0 +1,25 @@
+#navBar{
+	background-color: #464040;
+}
+#navBar a{
+	color: #FFF;
+}
+#menu ul li a{
+	color: #FFF;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #7C7C7C;
+    color: #555;
+}
+
+#intro {
+	background-image: url(../img/p1.jpg);
+	background-position: center;
+}
+#about{
+	background-color: #010101
+	
+}
+#services{
+	background-color: #D2D2D2;
+}
