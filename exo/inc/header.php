@@ -1,3 +1,4 @@
+<?php require_once 'connect.php'; ?>
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -36,12 +37,12 @@
         <div class="container">
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                    <span class="sr-only">BLABLABLA</span>
+                    <span class="sr-only"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Welcome</a>
+                <a class="navbar-brand page-scroll" id="test" href="#page-top">Welcome</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -52,13 +53,13 @@
                         <a class="page-scroll" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Partie 1</a>
+                        <a class="page-scroll" href="#about">Partie Images</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Partie 2</a>
+                        <a class="page-scroll" href="#services">Partie Formulaire</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Partie 3</a>
+                        <a class="page-scroll" href="#contact">Partie Footer</a>
                     </li>
                 </ul>
             </div>

@@ -1,0 +1,64 @@
+#navBar{
+	background-color: #464040;
+}
+#navBar a{
+	color: #FFF;
+}
+#menu ul li a{
+	color: #FFF;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #7C7C7C;
+    color: #555;
+}
+
+#intro {
+	background: url(../img/fond.jpeg)center center no-repeat;
+		background-size: cover;
+}
+#about{
+	background-color: #BBBBBB;
+}
+#services{
+	background: url(../img/fond1.jpg)center center no-repeat;
+	background-size: cover;
+}
+#contact{
+	background-color: #B6B6B6;
+}
+.mod{
+	opacity: 0.8;
+	background-color: #FFFFFF; 
+	padding: 10px;
+	border-radius: 10px;
+}
+.mod2{
+	background-color: #FFFFFF; 
+	padding: 10px;
+	border-radius: 10px;
+}
+.img{
+	height: 100%;
+	width: 100%;
+
+}
+.col-xs-2{
+	background-color: #737272;
+	border-radius: 10px;
+	margin: 3px;
+	padding: 25px;
+	z-index: 0;
+}
+
+.col-xs-2:hover{
+	border: solid #252525;
+	transform: scale(1.5);	
+	z-index: 1;
+	top: 3em;
+}
+.orc{
+	color: #FFFFFF;
+	background-color: #A00A0A;
+	padding: 10px;
+	border-radius: 10px;
+}
