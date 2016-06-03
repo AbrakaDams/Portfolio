@@ -1592,14 +1592,23 @@ pre code {
   .container {
     width: 750px;
   }
+  #respon{
+    width: 750px;
+  }
 }
 @media (min-width: 992px) {
   .container {
     width: 970px;
   }
+  #respon{
+    width: 970px;
+  }
 }
 @media (min-width: 1200px) {
   .container {
+    width: 1170px;
+  }
+  #respon{
     width: 1170px;
   }
 }

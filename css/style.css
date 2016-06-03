@@ -42,17 +42,17 @@
 	width: 100%;
 
 }
-.col-xs-2{
+.col-xs-4{
 	background-color: #737272;
 	border-radius: 10px;
 	margin: 3px;
-	padding: 25px;
+	padding: 20px;
 	z-index: 0;
 }
 
-.col-xs-2:hover{
+.col-xs-4:hover{
 	border: solid #252525;
-	transform: scale(1.5);	
+	transform: scale(1.2);	
 	z-index: 1;
 	top: 3em;
 }
